@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.Form1.resources
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.Properties.Resources.resources
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\bin\Debug\sevimmm.exe.config
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\bin\Debug\sevimmm.exe
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\bin\Debug\sevimmm.pdb
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.exe
+C:\Users\User\Downloads\Yeni klasör\sevimmm\sevimmm\obj\Debug\sevimmm.pdb
